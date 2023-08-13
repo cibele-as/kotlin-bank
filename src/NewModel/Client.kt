@@ -1,7 +1,0 @@
-package NewModel
-
-class Client{
-
-}
-
-

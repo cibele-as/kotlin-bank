@@ -1,7 +1,7 @@
 package br.com.alura.bytebank.Test
 
-import Exception.AuthenticationFailureException
-import Exception.InsufficientBalanceException
+import br.com.alura.bytebank.Exception.AuthenticationFailureException
+import br.com.alura.bytebank.Exception.InsufficientBalanceException
 import br.com.alura.bytebank.Model.CurrentAccount
 import br.com.alura.bytebank.Model.SavingsAccount
 import br.com.alura.bytebank.Model.Client

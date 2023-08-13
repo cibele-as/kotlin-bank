@@ -1,8 +1,7 @@
 package br.com.alura.bytebank.Model
 
-import Exception.AuthenticationFailureException
-import Exception.InsufficientBalanceException
-import java.lang.NumberFormatException
+import br.com.alura.bytebank.Exception.AuthenticationFailureException
+import br.com.alura.bytebank.Exception.InsufficientBalanceException
 
 abstract class TransferableAccount (
     Owner: Client,

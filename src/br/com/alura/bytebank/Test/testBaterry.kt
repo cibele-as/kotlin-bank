@@ -1,6 +1,6 @@
 package br.com.alura.bytebank.Test
 
-import Exception.InsufficientBalanceException
+import br.com.alura.bytebank.Exception.InsufficientBalanceException
 
 fun funcao1() {
     println("início funcao1")
