@@ -1,4 +1,4 @@
-package Exception
+package br.com.alura.bytebank.Exception
 import java.lang.Exception
 
 class InsufficientBalanceException(
